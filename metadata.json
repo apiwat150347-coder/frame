@@ -1,0 +1,6 @@
+{
+  "name": "Badminton Court Manager & QR Check-in",
+  "description": "ระบบบันทึกข้อมูลผู้ใช้งานสนามแบดมินตัน เช็คอินผ่าน QR Code จัดการจองสนามแบบเรียลไทม์ และส่งออกรายงานสรุปยอดรายวันเป็น Excel",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
